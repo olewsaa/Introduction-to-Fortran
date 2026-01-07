@@ -19,5 +19,3 @@ under 2026 (OpenOffice Present format).
 Have fun
 
 
-
-
