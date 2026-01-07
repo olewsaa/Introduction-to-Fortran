@@ -20,3 +20,7 @@ Note the use of colon. The notation v(:) means all the elements, like
 v(1:3) is only the 3 first elements. 
 
 
+## quicksort 
+
+Assignment for Homework: Rewriting quicksort to accept any type numerical 
+data type using the polymorph capabilities in Fortran.
